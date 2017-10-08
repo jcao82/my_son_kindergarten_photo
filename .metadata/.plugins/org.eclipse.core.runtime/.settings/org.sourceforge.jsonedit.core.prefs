@@ -3,3 +3,7 @@ colorNull=208,208,208
 colorString=220,120,220
 colorValue=190,214,255
 eclipse.preferences.version=1
+predarkestdark.colorDefault=208,208,208
+predarkestdark.colorNull=208,208,208
+predarkestdark.colorString=220,120,220
+predarkestdark.colorValue=190,214,255
